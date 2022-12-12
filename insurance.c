@@ -12,7 +12,7 @@ void main()
  scanf("%c",&gen);
  printf("Enter your age\n");
  scanf("%d",&age);
- amount(age);
+ result = amount(age);
  gender(gen);
  smoker();
   
